@@ -1,1 +1,1 @@
-# Machine-Learning-Happy-
+# 가짜뉴스 판별 프로그램
